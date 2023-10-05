@@ -10,7 +10,7 @@ y1 = 100
 B0 = 0
 G0 = 0
 R0 = 255
-
+#change the test PATH to something meaningful for your use. (sample path provided to show syntax usage.).
 PATH = r'C:\Users\Administrator\OneDrive - SUNY Polytechnic Institute\DSP\DEV\PROJECTS\PYTHON\COMPUTER_VISION\img\Warno-feature-2000x1270-1.jpg'    
 
 cap = cv.VideoCapture(r"C:\Users\Administrator\OneDrive - SUNY Polytechnic Institute\DSP\DEV\PROJECTS\PYTHON\COMPUTER_VISION\dartVid.webm")
